@@ -1,0 +1,18 @@
+{
+    "hsbc": {
+        "teams": ["team-horton-s", "team-bot"],
+        "maintainers": ["namgk", "julinas"]
+    },
+    "coast": {
+        "teams": ["team-3", "the-terminal"],
+        "maintainers": ["puneet89", "scholtzan"]
+    },
+    "ae": {
+        "teams": ["team-6", "s-a-d-b-o-y-s", "the-avengers"],
+        "maintainers": ["namgk", "julinas"]
+    },
+    "uniserve": {
+        "teams": ["team-8", "git-good"],
+        "maintainers": ["puneet89", "scholtzan"]
+    }
+}
